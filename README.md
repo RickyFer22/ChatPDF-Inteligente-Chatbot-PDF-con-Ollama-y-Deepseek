@@ -35,7 +35,7 @@ Ideal para investigadores, estudiantes, profesionales y cualquier persona que ne
 ### Requisitos Previos
 
 * **Python 3.8 o superior** 🐍
-* **Ollama instalado** y el modelo **deepseek-r1:8b** descargado 🧠.  Descarga Ollama desde [https://ollama.com/](https://ollama.com/) y el modelo `deepseek-r1:8b` desde [https://ollama.com/library/deepseek-r1-8b](https://ollama.com/library/deepseek-r1-8b).
+* **Ollama instalado** y el modelo **deepseek-r1:8b** descargado 🧠.  Descarga Ollama desde [https://ollama.com/](https://ollama.com/) y el modelo `deepseek-r1:8b` desde [https://ollama.com/library/deepseek-r1).
 * **Visual C++ Build Tools** (solo para Windows): Necesario para algunas dependencias de Python. Descárgalas desde [https://visualstudio.microsoft.com/es/visual-cpp-build-tools/](https://visualstudio.microsoft.com/es/visual-cpp-build-tools/).
 
 ### Pasos de Instalación
